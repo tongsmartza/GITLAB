@@ -3,5 +3,6 @@
 main()
 {
 	printf("Love New jubujubu ahhaeuieui\n");
-	return 0;
+	printf("blabla");
+	return 100;
 }

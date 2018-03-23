@@ -2,6 +2,6 @@
 
 main()
 {
-	printf("Love New jubujubu ahhaeuieui\n");
-	return 0;
+	printf("Love New jubujubu ahhaeuasdavafdvdgbdfcafdvafieui\n");
+	return 20;
 }

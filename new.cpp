@@ -2,6 +2,6 @@
 
 main()
 {
-	printf("Love New jubujubu\n");
+	printf("Love New jubujubu ahhaeuieui\n");
 	return 0;
 }
